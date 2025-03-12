@@ -16,7 +16,7 @@ p:nth-child(2){
 p:last-child{
 	color: red;
 }
-.even{
+li{
 	background-color: gray;
 }
 .odd{
